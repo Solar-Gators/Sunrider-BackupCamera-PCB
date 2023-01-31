@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CL21B104KCFNNNE'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Samsung Electro-Mechanics", "CL21B104KCFNNNE" (!) = "", "CAPC2012X135N", "Capacitor Chip Non-polarised", "187-CL21B104KCFNNNE", "https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL21B104KCFNNNE?qs=lptGheUA4EwiEGVRX9oguw%3D%3D", "SAMSUNG ELECTRO-MECHANICS - CL21B104KCFNNNE - CAP, 0.1UF, 100V, MLCC, 0805", "https://datasheet.datasheetarchive.com/originals/distributors/DKDS-19/374389.pdf", "1.35 mm"
+END_PART
+
+END.

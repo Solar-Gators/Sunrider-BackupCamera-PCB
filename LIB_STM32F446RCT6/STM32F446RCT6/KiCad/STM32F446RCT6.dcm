@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STM32F446RCT6
+D STMICROELECTRONICS - STM32F446RCT6 - MCU, 32BIT, CORTEX-M4, 180MHZ, LQFP-64
+K
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/65/cb/75/50/53/d6/48/24/DM00141306.pdf/files/DM00141306.pdf/jcr:content/translations/en.DM00141306.pdf
+$ENDCMP
+#
+#End Doc Library

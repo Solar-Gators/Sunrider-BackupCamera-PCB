@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '34830_0801'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Molex", "34830-0801" (!) = "", "348300801", "Other", "538-34830-0801", "https://www.mouser.co.uk/ProductDetail/Molex/34830-0801?qs=PdnAIJ6Mlf2HM0lerKt%252BjA%3D%3D", "Automotive Connectors MX150 RA HDR 2X4 ST BLK KEY A", "", "25.88 mm"
+END_PART
+
+END.

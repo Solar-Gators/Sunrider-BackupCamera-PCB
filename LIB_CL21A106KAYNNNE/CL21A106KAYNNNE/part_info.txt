@@ -1,0 +1,9 @@
+Manufacturer=Samsung Electro-Mechanics
+PartNumber=CL21A106KAYNNNE
+PartCategory=Capacitor
+PackageCategory=Capacitor Chip Non-polarised
+PinCount=2
+Version=3.1
+Released=2019-04-03 13:56:51
+Downloaded=2022-10-21 00:04:17
+3D=Y

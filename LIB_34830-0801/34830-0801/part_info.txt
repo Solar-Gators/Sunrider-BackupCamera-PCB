@@ -1,0 +1,9 @@
+Manufacturer=Molex
+PartNumber=34830-0801
+PartCategory=Connector
+PackageCategory=Other
+PinCount=8
+Version=1.3
+Released=2020-03-20 16:49:25
+Downloaded=2022-10-21 00:28:16
+3D=Y

@@ -1,0 +1,10 @@
+qiyue.wang@ufl.edu
+Wlwem1125$$
+C:\Users\Emily Wang\Downloads
+C:\Users\Emily Wang\Documents\AltiumLL\SamacSys.SchLib
+C:\Users\Emily Wang\Documents\AltiumLL\SamacSys.PcbLib
+0
+
+80
+True
+True

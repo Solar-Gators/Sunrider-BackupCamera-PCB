@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TNPV0805180KBEEA'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Vishay", "TNPV0805180KBEEA" (!) = "", "TNPV0805180KBEEA", "Other", "71-TNPV0805180KBEEA", "https://www.mouser.co.uk/ProductDetail/Vishay/TNPV0805180KBEEA?qs=Li%252BoUPsLEnuke%2FRX4njE1w%3D%3D", "Thin Film Resistors - SMD 180Kohms+/-0.1% 25ppm High Voltage  0805 (2012 Metric)", "https://www.vishay.com/docs/28881/tnpve3.pdf", "0.55 mm"
+END_PART
+
+END.

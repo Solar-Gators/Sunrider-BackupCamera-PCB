@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_16013799"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-03-23-05:03:05)
+    (utime 2022-04-14-09:26:51)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "TNPV0805180KBEEA")
+)
+
+
+(pinAssign "ECS_16013799"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-03-23-05:03:05)
+    (utime 2022-04-14-09:26:51)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_16013799")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "TNPV0805180KBEEA")
+)
+
+
+(part "TNPV0805180KBEEA"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-03-23-05:03:05)
+    (utime 2022-04-14-09:26:51)
+    (packageRef "TNPV0805180KBEEA")
+    (pinAssignRef "ECS_16013799")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "R")
+    (property "description" "Thin Film Resistors - SMD 180Kohms+/-0.1% 25ppm High Voltage  0805 (2012 Metric)")
+    (property "Mouser_Part_Number" "71-TNPV0805180KBEEA")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Vishay/TNPV0805180KBEEA?qs=Li%252BoUPsLEnuke%2FRX4njE1w%3D%3D")
+    (property "Manufacturer_Name" "Vishay")
+    (property "Manufacturer_Part_Number" "TNPV0805180KBEEA")
+    (property "Datasheet_Link" "https://www.vishay.com/docs/28881/tnpve3.pdf")
+    (property "compAreaTopHeight" 0.55)
+)
+
+

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TNPV0805180KBEEA
+D Thin Film Resistors - SMD 180Kohms+/-0.1% 25ppm High Voltage  0805 (2012 Metric)
+K
+F https://www.vishay.com/docs/28881/tnpve3.pdf
+$ENDCMP
+#
+#End Doc Library

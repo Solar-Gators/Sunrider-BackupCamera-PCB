@@ -1,0 +1,9 @@
+Manufacturer=Samsung Electro-Mechanics
+PartNumber=CL21B105KBFNNNE
+PartCategory=Capacitor
+PackageCategory=Capacitor Chip Non-polarised
+PinCount=2
+Version=2.1
+Released=2019-09-25 14:17:50
+Downloaded=2022-10-18 22:45:36
+3D=Y

@@ -1,0 +1,176 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "34830-0801"
+   (description "Automotive Connectors MX150 RA HDR 2X4 ST BLK KEY A")
+   (family "CON")
+   (package "348300801")
+   (attribute "Datasheet Link" "")
+   (attribute "Geometry.Height" "25.88mm")
+   (attribute "Mouser Part Number" "538-34830-0801")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Molex/34830-0801?qs=PdnAIJ6Mlf2HM0lerKt%252BjA%3D%3D")
+   (attribute "Manufacturer_Name" "Molex")
+   (attribute "Manufacturer_Part_Number" "34830-0801")
+   (gate
+    (symbol "34830-0801")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+    (pin "3" 3 PS)
+    (pin "4" 4 PS)
+    (pin "5" 5 PS)
+    (pin "6" 6 PS)
+    (pin "7" 7 PS)
+    (pin "8" 8 PS)
+   )
+  )
+  (symbol "34830-0801"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 600 100) (pt 600 -400) (pt 200 -400) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 800 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 800 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 800 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 800 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "348300801"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -16.665 0.77)
+      (pt 27.165 0.77)
+      (pt 27.165 -16.5)
+      (pt -16.665 -16.5)
+      (pt -16.665 0.77))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -17.75 4.335)
+      (pt 28.25 4.335)
+      (pt 28.25 -42.865)
+      (pt -17.75 -42.865)
+      (pt -17.75 4.335))))
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -8.75 -16.5)
+      (pt -8.75 -41.865)
+      (pt 19.25 -41.865)
+      (pt 19.25 -16.5))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -16.75 0.77)
+      (pt -16.665 -16.5)
+      (pt 27.25 -16.5)
+      (pt 27.165 0.77))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -8.75 -16.5)
+      (pt -8.75 -41.865)
+      (pt 19.25 -41.865)
+      (pt 19.25 -16.5))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt 0 3.135)
+      (arc (pt 0.000 3.135) (pt -0.100 3.135) (pt 0.100 3.335) (start 180.0) (sweep -90.0))
+      (pt 0 3.335)
+      (arc (pt 0.000 3.335) (pt -0.100 3.135) (pt 0.100 3.335) (start 180.0) (sweep 90.0))
+      (pt 0 3.135))))
+   (leg 1 (pt 0.000 0.000) (padstack 0))
+   (leg 2 (pt 3.500 0.000) (padstack 0))
+   (leg 3 (pt 7.000 0.000) (padstack 0))
+   (leg 4 (pt 10.500 0.000) (padstack 0))
+   (leg 5 (pt 0.000 -3.500) (padstack 0))
+   (leg 6 (pt 3.500 -3.500) (padstack 0))
+   (leg 7 (pt 7.000 -3.500) (padstack 0))
+   (leg 8 (pt 10.500 -3.500) (padstack 0))
+   (leg MH1 (pt -7.000 -2.460) (padstack 9))
+   (leg MH2 (pt 17.500 -2.460) (padstack 10))
+   (padstack 0
+    (hole 1.54)
+    (plated true)
+    (pad (layer TCOP) (round 2.310))
+    (pad (layer INNER) (round 2.310))
+    (pad (layer BCOP) (round 2.310))
+   )
+   (padstack 9
+    (hole 4.05)
+    (plated false)
+    (pad (layer TCOP) (round 2.025))
+    (pad (layer INNER) (round 2.025))
+    (pad (layer BCOP) (round 2.025))
+   )
+   (padstack 10
+    (hole 4.05)
+    (plated false)
+    (pad (layer TCOP) (round 2.025))
+    (pad (layer INNER) (round 2.025))
+    (pad (layer BCOP) (round 2.025))
+   )
+   (model "34830-0801.stp"
+    (euler 90 0 0)
+    (offset -2.2300000190734863 -7.670000076293945 1.7300000190734863)
+   )
+  )
+ )
+)

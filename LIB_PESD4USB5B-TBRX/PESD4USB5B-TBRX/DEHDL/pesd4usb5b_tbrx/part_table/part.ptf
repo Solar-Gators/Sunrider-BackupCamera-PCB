@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'PESD4USB5B_TBRX'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Nexperia", "PESD4USB5B-TBRX" (!) = "", "PESD4USB5BTBRX", "Other", "771-PESD4USB5B-TBRX", "https://www.mouser.co.uk/ProductDetail/Nexperia/PESD4USB5B-TBRX?qs=MyNHzdoqoQL1Wz6R0ceOBw%3D%3D", "NEXPERIA - PESD4USB5B-TBRX - ESD Protection Device, DFN2510A, 10 Pins, 5 V", "https://assets.nexperia.com/documents/data-sheet/PESD4USB5B-TBS.pdf", "0.8 mm"
+END_PART
+
+END.

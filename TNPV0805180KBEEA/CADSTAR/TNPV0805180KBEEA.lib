@@ -1,0 +1,16 @@
+.TNPV0805180KBEEA :1 ;Thin Film Resistors - SMD 180Kohms+/-0.1% 25ppm High Voltage  0805 (2012 Metric)
+TNPV0805180KBEEA
+*STM R
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN TNPV0805180KBEEA
+~!Mouser Part Number (71-TNPV0805180KBEEA)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Vishay/TNPV0805180KBEEA?qs=Li%252BoUPsLEnuke%2FRX4njE1w%3D%3D)
+~!Manufacturer_Name (Vishay)
+~!Manufacturer_Part_Number (TNPV0805180KBEEA)
+~!Link Datasheet (https://www.vishay.com/docs/28881/tnpve3.pdf)
+~!Height (0.55mm)
+~!3D_Model (TNPV0805180KBEEA)
+TNPV0805180KBEEA
+1.1!U 2.1!U 

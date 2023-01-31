@@ -1,0 +1,9 @@
+Manufacturer=Nexperia
+PartNumber=PESD4USB5B-TBRX
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=10
+Version=1.2
+Released=2022-08-27 23:24:18
+Downloaded=2022-10-31 19:21:06
+3D=Y

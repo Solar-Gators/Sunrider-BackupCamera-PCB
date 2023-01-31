@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "PESD4USB5B-TBRX"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-08-27-23:24:18)
+    (mountForm default
+        (footprintRef "PESD4USB5BTBRX")
+        (spec "System")
+    )
+)

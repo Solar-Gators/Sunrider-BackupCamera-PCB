@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PESD4USB5B-TBRX
+D NEXPERIA - PESD4USB5B-TBRX - ESD Protection Device, DFN2510A, 10 Pins, 5 V
+K
+F https://assets.nexperia.com/documents/data-sheet/PESD4USB5B-TBS.pdf
+$ENDCMP
+#
+#End Doc Library
